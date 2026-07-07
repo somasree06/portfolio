@@ -1,4 +1,4 @@
-# Nikil Edwin E J — AI/ML Portfolio
+# Somasree V — AI/ML Portfolio
 
 A world-class, futuristic portfolio website built for an AI Architect. Features immersive animations, glassmorphism design, interactive architecture diagrams, and a premium feel.
 
